@@ -1,0 +1,11 @@
+[
+    {"codigo": "JO-001", "nombre": "Chocolate Amargo", "tipo": "dulce", "valor": 500},
+    {"codigo": "JO-002", "nombre": "Gomitas", "tipo": "dulce", "valor": 300},
+    {"codigo": "JO-003", "nombre": "Caramelo", "tipo": "dulce", "valor": 200},
+    {"codigo": "JO-004", "nombre": "Chicle Menta", "tipo": "dulce", "valor": 100},
+    {"codigo": "JO-005", "nombre": "Agua Mineral", "tipo": "bebida", "valor": 1600},
+    {"codigo": "JO-006", "nombre": "Papas Fritas", "tipo": "snack", "valor": 1200},
+    {"codigo": "JO-007", "nombre": "Gaseosa", "tipo": "bebida", "valor": 2500},
+    {"codigo": "JO-008", "nombre": "Maní Salado", "tipo": "snack", "valor": 500}
+  ]
+  

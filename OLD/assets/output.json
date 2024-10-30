@@ -1,0 +1,47 @@
+[
+    {
+        "porDia": [
+            {
+                "fecha": "2024-10-01",
+                "comprador": "José",
+                "dulce": "Chocolate Amargo"
+            },
+            {
+                "fecha": "2024-10-02",
+                "comprador": "Ana López",
+                "dulce": "Caramelo"
+            }
+        ]
+    },
+    {
+        "porSemana": [
+            {
+                "semana": 40,
+                "compradores": [
+                    {
+                        "nombre": "Ana López",
+                        "total": 3600.0
+                    },
+                    {
+                        "nombre": "José",
+                        "total": 2300.0
+                    }
+                ],
+                "articulos": [
+                    {
+                        "codigo": "JO-001",
+                        "total": 2000.0
+                    },
+                    {
+                        "codigo": "JO-003",
+                        "total": 2000.0
+                    },
+                    {
+                        "codigo": "JO-005",
+                        "total": 1600.0
+                    }
+                ]
+            }
+        ]
+    }
+]

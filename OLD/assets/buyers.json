@@ -1,0 +1,19 @@
+[
+    {
+      "nombre": null,
+      "fecha": "2024-10-01",
+      "compras": [
+        {"codigo": "JO-001", "cantidad": 4},
+        {"codigo": "JO-002", "cantidad": 1}
+      ]
+    },
+    {
+      "nombre": "Ana López",
+      "fecha": "2024-10-02",
+      "compras": [
+        {"codigo": "JO-003", "cantidad": 10},
+        {"codigo": "JO-005", "cantidad": 1}
+      ]
+    }
+  ]
+  
